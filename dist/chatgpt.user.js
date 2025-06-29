@@ -26,14 +26,6 @@
 // @match              https://chatgpt.com/gpts/*
 // @match              https://chatgpt.com/share/*
 // @match              https://chatgpt.com/share/*/continue
-// @match              https://new.oaifree.com/
-// @match              https://new.oaifree.com/?model=*
-// @match              https://new.oaifree.com/c/*
-// @match              https://new.oaifree.com/g/*
-// @match              https://new.oaifree.com/gpts
-// @match              https://new.oaifree.com/gpts/*
-// @match              https://new.oaifree.com/share/*
-// @match              https://new.oaifree.com/share/*/continue
 // @require            https://cdn.jsdelivr.net/npm/jszip@3.9.1/dist/jszip.min.js
 // @require            https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js
 // @grant              GM_deleteValue
